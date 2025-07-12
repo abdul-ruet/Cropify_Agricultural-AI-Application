@@ -1,5 +1,5 @@
 # Cropify
-# Crop Recommender with Claude Sonnet 🧑‍🌾🌾
+# Cropify_Agricultural-AI-Application 🧑‍🌾🌾
 
 This project is a Streamlit application that recommends suitable crops based on various environmental parameters using the Claude model from Anthropic.
 
