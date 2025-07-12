@@ -58,6 +58,4 @@ This project is a Streamlit application that recommends suitable crops based on 
 2. **Vector Embedding and Vector Store**: Create embeddings using the Titan Embeddings Model and store them using FAISS.
 3. **LLM Integration**: Use the Claude model to generate responses based on the input query and context retrieved from the vector store.
 
-## License
 
-This project is licensed under the MIT License.
